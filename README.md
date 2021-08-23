@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm a beginning programmer looking for knowledge.
-<br>Below, some languages I'm currently studying:
+<br>Below, some technologies I'm currently studying:
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/gatayde">
